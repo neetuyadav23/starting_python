@@ -1,4 +1,4 @@
-Hello Everyone!
+<strong>Hello Everyone!</strong>
 <br/>
 I'am Neetu Yadav, Sophomore at Banasthali Vidyapith pursuing Computer Science Engineering.
 <br/>
@@ -7,7 +7,7 @@ A Tech enthusiast who loves discovering innovative solutions and practically dev
 Looking forward to applying my skills,learning and working on open source!
 <br/>
 <br/>
-Repository 1-# starting_python
+<strong>Repository 1-# starting_python</strong>
 <br/>
 Developed python mini projects.
 <br/>
