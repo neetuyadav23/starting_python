@@ -1,5 +1,4 @@
-##Repository 1-# starting_python
-
+#Repository 1-Sundry
 🚀 Complete laundry management solution built with Python and MySQL for efficient business operations
 
 A comprehensive desktop application designed to streamline laundry business operations with features for customer management, order tracking, billing, and reporting. Perfect for small to medium-sized laundry businesses looking to digitize their operations.
