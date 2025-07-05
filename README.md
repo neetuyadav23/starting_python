@@ -1,16 +1,24 @@
-<strong>Hello Everyone!</strong>
-<br/>
-I'am Neetu Yadav, Sophomore at Banasthali Vidyapith pursuing Computer Science Engineering.
-<br/>
-A Tech enthusiast who loves discovering innovative solutions and practically devloping them, is what I would like to call myself.
-<br/>
-Looking forward to applying my skills,learning and working on open source!
-<br/>
-<br/>
-<strong>Repository 1-# starting_python</strong>
-<br/>
-Developed python mini projects.
-<br/>
-Made a fun game called "SPICE DICE" using basic python knowledge.
-<br/>
-Built "SUN DRY",using python & mysql which aims to provide various laundry services to customers,keep a track of their data and print their respective bill.
+##Repository 1-# starting_python
+
+🚀 Complete laundry management solution built with Python and MySQL for efficient business operations
+
+A comprehensive desktop application designed to streamline laundry business operations with features for customer management, order tracking, billing, and reporting. Perfect for small to medium-sized laundry businesses looking to digitize their operations.
+
+🎯 Project Overview
+Sundry is a full-stack desktop application that manages the entire laundry business workflow from customer registration to order delivery. The system provides an intuitive interface for staff to handle daily operations while maintaining detailed records for business analytics.
+
+✨ Key Features
+
+👥 Customer Management: Complete customer database with contact details
+
+📋 Order Management: Track orders from pickup to delivery
+
+💰 Billing System: Automated invoice generation and payment tracking
+
+📊 Inventory Management: Track laundry items and pricing
+
+📈 Reports & Analytics: Business insights and performance metrics
+
+🔐 User Authentication: Secure login system for staff members
+
+🔍 Search & Filter: Quick access to customer and order information
